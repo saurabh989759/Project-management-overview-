@@ -71,13 +71,9 @@ The application is deployed on AWS, offering secure and scalable hosting. Follow
 
 We welcome contributions to improve this project. Please refer to each repository for contribution guidelines.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
-For any questions or contributions, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions or contributions, please contact saurabh98king@gmail.com .
 
 ---
 
